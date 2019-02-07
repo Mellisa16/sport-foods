@@ -1,0 +1,96 @@
+[
+  {
+    "id": 0,
+    "title": "Casein Zero",
+    "manufacturer": "Biotech USA Nutrition",
+    "image":"https://bcaa.ua/uploaded/catalog_spool/24125/big_p24125_006715.jpg",
+    "price": 1710,
+    "rating": 3
+  },
+  {
+    "id": 1,
+    "title": "SAN 100% Pure Titanium Whey",
+    "manufacturer": "Biotech USA Nutrition",
+    "image":
+    "https://bcaa.ua/uploaded/catalog_spool/22210/big_p22210_2.jpg.jpg",
+    "price": 2415,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "title": "SAN Rawfusion",
+    "manufacturer": "San",
+    "image":
+    "https://bcaa.ua/uploaded/catalog_spool/22232/big_p22232_rawfusion-bananna-2-pound3123.jpg",
+    "price": 964,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "title": "R1 Casein ",
+    "manufacturer": "Rule One Proteins",
+    "image":
+    "https://bcaa.ua/uploaded/catalog_spool/24929/big_p24929_71l-txJQZVL._SL1405_.jpg",
+    "price": 741,
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "title": "Impact Whey",
+    "manufacturer": "MyProtein (MyVitamins)",
+    "image":
+    "https://bcaa.ua/uploaded/catalog_spool/23437/big_p23437_rome.jpg",
+    "price": 517,
+    "rating": 1
+  },
+  {
+    "id": 5,
+    "title": "Elite Whey",
+    "manufacturer": "Dymatize Nutrition",
+    "image":
+    "https://bcaa.ua/uploaded/catalog_spool/22121/big_p22121_elite-whey-protein-dymatize-2270g-cea.jpg",
+    "price": 854,
+    "rating": 0
+  },
+  {
+    "id": 6,
+    "title":
+    "100 % Whey Protein Professional 920",
+    "manufacturer":"Scitec Nutrition",
+    "image": "https://bcaa.ua/uploaded/catalog_spool/22073/middle_p22073_879878978.jpg",
+    "price": 1573,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "title": "Micellar Casein",
+    "manufacturer": "Ostrovit",
+    "image": "https://bcaa.ua/uploaded/catalog_spool/22669/big_p22669_pol_pl_OstroVit-Micellar-Casein-700-g-7477_1.jpg.jpg",
+    "price": 246,
+    "rating": 0
+  },
+  {
+    "id": 8,
+    "title": "УЛЬТРА-80 сывороточный",
+    "manufacturer": "Фортоген",
+    "image": "https://bcaa.ua/uploaded/catalog_spool/22567/big_p22567_ultra_80_900_gramm.jpg",
+    "price": 347,
+    "rating": 5
+  },
+  {
+    "id": 9,
+    "title": "Casein Zero 30 грамм (пробник)",
+    "manufacturer": "Biotech USA Nutrition",
+    "image": "https://bcaa.ua/uploaded/catalog_spool/24126/big_p24126_s1503503977.jpg",
+    "price": 45,
+    "rating": 2
+  },
+  {
+    "id": 10,
+    "title": "100% Whey Gold Standard 4500",
+    "manufacturer": "Optimum Nutrition",
+    "image": "https://bcaa.ua/uploaded/catalog_spool/22162/big_p22162_81qzedcabcl._sy450_.jpg",
+    "price": 2455,
+    "rating": 1
+  }
+]
